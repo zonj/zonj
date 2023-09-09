@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Web Developer<br>👯 I’m looking to collaborate on web development projects that align with my current skills and interest, where I can learn and contribute to the best of my abilities.<br>🌱 I'm excited to learn new web development technologies to advance my knowledge.
+🔭 I’m currently working as a Web Developer at E-commerce industry<br>👯 I’m looking to collaborate on web development projects that align with my current skills and interest, where I can learn and contribute to the best of my abilities.<br>🌱 I'm excited to learn new web development technologies to advance my knowledge.
 
 # 💻 Tech Stack:
 
